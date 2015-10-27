@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[JaisonErick]]></title>
+        <description><![CDATA[JaisonErick]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 27 Oct 2015 20:14:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sem leilão de hidrelétricas, déficit de 2015 pode chegar a R$ 62,87 bilhões]]></title>
+            <description><![CDATA[<article><h1>Sem leilão de hidrelétricas, déficit de 2015 pode chegar a R$ 62,87 bilhões</h1><p>Os Ministérios do Planejamento, Orçamento e Gestão e da Fazenda divulgou nesta terça-feira (27) a minuta do ofício que está sendo encaminhada ao Congresso Nacional e confirmou que a meta de déficit primário será alterada para R$ 51,8 bilhões - o maior rombo fiscal da história - para as contas do governo.</p><img src="http://s2.glbimg.com/WmMoe43RAyhg75Pm-lVNmL9IEo8=/1200x630/s.glbimg.com/jo/g1/f/original/2015/10/27/evolucao-contas-publicas-brasil1.jpg"></article>]]></description>
+            <link>http://g1.globo.com/economia/noticia/2015/10/sem-leilao-de-hidreletricas-deficit-de-2015-pode-chegar-r-6287-bilhoes.html</link>
+            <guid isPermaLink="false">6ca07800-b369-41b5-8c8d-52f183b246e8</guid>
+            <pubDate>Tue, 27 Oct 2015 20:14:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
