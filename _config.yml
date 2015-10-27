@@ -2,7 +2,6 @@ name: JaisonErick
 favicon: null
 layout_spectrum: 0.93643
 typography_spectrum: 0.21327072335407138
-title: New News
 cta:
   domain: null
   bucket: null
@@ -17,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fcfcfc'
+    - '#00a8e8'
+    - '#ffffff'
     - '#000000'
-    - '#7d7d7d'
-    - '#afafaf'
-    - '#243827'
-  brandStrength: 0
+    - '#b3e9f9'
+    - '#005573'
+  brandStrength: 0.5625
   lightness: 0.6052108102012426
   saturation: 0.4849835264030844
   rhythmicContrast: 0.1499091803561896
